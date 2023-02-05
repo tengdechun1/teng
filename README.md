@@ -1,3 +1,4 @@
+#本项目主要用于计算《羊了个羊》微信小程序的解题步骤
 # SheepASheepV2 Based On bc0042/sheep-solver 新增地图解析功能
 
 ## 安装
